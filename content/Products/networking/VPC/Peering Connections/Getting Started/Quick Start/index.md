@@ -26,7 +26,6 @@ Peering Connections in Utho Cloud enable private network connectivity between tw
 
 ### **1. How to View Peering Connections**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud account.
 * From the sidebar menu, go to **Networking** or **VPC** and click on **Peering Connections** to open the  **[Peering Connections Listing Page](https://console.utho.com/peeringconnection)** .
 * The list displays all existing peering connections with details such as:
   * **Name** : Name of the peering connection.

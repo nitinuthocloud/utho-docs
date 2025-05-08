@@ -21,17 +21,8 @@ tab: true
 
 Viewing your deployed NAT Gateways in Utho Cloud is essential for managing and troubleshooting the network connectivity between your private subnets and the internet. By accessing the NAT Gateway listing page, users can see all the NAT Gateways created in their account, along with critical details such as the associated Internet Gateway ID, Subnet ID, NAT Gateway Type, and creation date.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the NAT Gateway Listing Page**
+### **1. Navigate to the NAT Gateway Listing Page**
 
 * On the left sidebar of the platform, locate the **VPC** menu.
 * Under the **VPC** section, select  **NAT Gateways** .
@@ -41,7 +32,7 @@ Alternatively, you can directly access the NAT Gateway listing page by clicking 
 
 ---
 
-### **3. NAT Gateway Listing Page Overview**
+### **2. NAT Gateway Listing Page Overview**
 
 On the  **NAT Gateway Listing Page** , you'll see a list of all the NAT Gateways deployed within your account. Each NAT Gateway entry contains the following details:
 

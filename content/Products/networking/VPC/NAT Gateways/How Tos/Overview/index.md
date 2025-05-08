@@ -24,17 +24,8 @@ A **NAT Gateway** in Utho Cloud allows resources in a private subnet to access t
 
 This guide provides an overview of the details and functionalities available on the **NAT Gateway Manage Page** in Utho Cloud.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the NAT Gateway Manage Page**
+### **1. Navigate to the NAT Gateway Manage Page**
 
 * On the left sidebar of the platform, locate the **VPC** menu.
 * Under the **VPC** section, click on  **NAT Gateways** .
@@ -47,7 +38,7 @@ This guide provides an overview of the details and functionalities available on 
 
 
 
-### **3. Key Details on the NAT Gateway Manage Page**
+### **2. Key Details on the NAT Gateway Manage Page**
 
 At the top section of the  **NAT Gateway Manage Page** , you’ll find key details and actions related to the selected NAT Gateway:
 
@@ -62,7 +53,7 @@ At the top section of the  **NAT Gateway Manage Page** , you’ll find key detai
      * **Active** : The NAT Gateway is functioning and available for use.
      * **Inactive** : The NAT Gateway is not active and cannot be used for outbound traffic.
 
-### **4. Tabs Available on the NAT Gateway Manage Page**
+### **3. Tabs Available on the NAT Gateway Manage Page**
 
 On the NAT Gateway Manage Page, there are two primary tabs for managing the NAT Gateway:
 

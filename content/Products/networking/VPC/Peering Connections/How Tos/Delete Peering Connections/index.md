@@ -22,17 +22,8 @@ tab: true
 
 Deleting a **Peering Connection** in Utho Cloud allows you to permanently remove a network link between two VPCs. This is useful when the connection is no longer required, helping to maintain a clean and secure network environment.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Go to the **[Login Page](https://console.utho.com/login)** of the Utho Cloud Platform.
-* Enter your credentials and click  **Login** .
-* If you don't have an account yet, register  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Peering Connections Listing Page**
+### **1. Navigate to the Peering Connections Listing Page**
 
 * From the left sidebar menu, navigate to **Networking** or  **VPC** , depending on your dashboard layout.
 * Click on **Peering Connections** to open the  **Peering Connections Listing Page** .
@@ -40,7 +31,7 @@ Deleting a **Peering Connection** in Utho Cloud allows you to permanently remove
 
 ---
 
-### **3. Delete a Peering Connection**
+### **2. Delete a Peering Connection**
 
 * On the listing page, each peering connection in the list will have a **Delete** button located at the end of its row.
 * Click on the **Delete** button next to the peering connection you wish to remove.
@@ -49,7 +40,7 @@ Deleting a **Peering Connection** in Utho Cloud allows you to permanently remove
 
 ---
 
-### **4. Confirm Deletion**
+### **3. Confirm Deletion**
 
 * A confirmation popup will appear asking if you’re sure about deleting the peering connection.
 * Click on the **"OK"** button in the popup to confirm.
@@ -59,7 +50,7 @@ Deleting a **Peering Connection** in Utho Cloud allows you to permanently remove
 
 ---
 
-### **5. Verify Deletion**
+### **4. Verify Deletion**
 
 * After deletion, the peering connection will be removed from the list.
 * You can verify the successful deletion by checking the **Peering Connections Listing Page** — the removed item will no longer appear.

@@ -21,17 +21,7 @@ tab: true
 
 Viewing your deployed Virtual Private Clouds (VPCs) in Utho Cloud allows users to manage their network environments efficiently. By accessing the VPC listing page, users can see all VPCs previously deployed in their account, along with key details like location, name, network configuration, and available management actions.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the VPC Listing Page**
+### **1. Navigate to the VPC Listing Page**
 
 * On the left sidebar of the platform, look for the **VPC** menu item.
 * Under the **VPC** section, select **VPCs** (subsection).
@@ -41,7 +31,7 @@ You can also access the VPC listing directly by clicking this [link to VPC Listi
 
 ---
 
-### **3. VPC Listing Page Overview**
+### **2. VPC Listing Page Overview**
 
 On the VPC listing page, you’ll see a list of all the VPCs that have been deployed within your account, including the following details for each VPC:
 

@@ -21,17 +21,7 @@ tab: true
 
 Attaching a NAT Gateway to a subnet in Utho Cloud allows resources within the subnet to access the internet via the NAT Gateway, ensuring efficient management of outbound traffic. By following a few simple steps, users can easily attach a NAT Gateway to a subnet and verify the attachment.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Subnet Listing Page**
+### **1. Navigate to the Subnet Listing Page**
 
 * On the left sidebar of the platform, look for the **VPC** menu item.
 * Under the **VPC** section, select **Subnets** (subsection).
@@ -41,7 +31,7 @@ You can also access the Subnets listing directly by clicking this [link to Subne
 
 ---
 
-### **3. Select the Subnet and Open the Manage Page**
+### **2. Select the Subnet and Open the Manage Page**
 
 * In the  **Subnets Listing Page** , choose the subnet to which you want to attach a NAT Gateway.
 * At the end of the subnet item, click the **"Manage"** button to open the **Manage Page** of that subnet.
@@ -50,7 +40,7 @@ You can also access the Subnets listing directly by clicking this [link to Subne
 
 ---
 
-### **4. Navigate to the "NAT Gateway" Tab**
+### **3. Navigate to the "NAT Gateway" Tab**
 
 * On the **Manage Page** of the subnet, locate and click on the **"NAT Gateway"** tab.
 * This tab will display the list of NAT Gateways currently attached to the subnet.
@@ -59,7 +49,7 @@ You can also access the Subnets listing directly by clicking this [link to Subne
 
 ---
 
-### **5. Add a NAT Gateway to the Subnet**
+### **4. Add a NAT Gateway to the Subnet**
 
 * In the **"NAT Gateway"** section, click the **"Add NAT Gateway"** button.
 * This will open a drawer where you can configure the NAT Gateway to attach.
@@ -72,7 +62,7 @@ You can also access the Subnets listing directly by clicking this [link to Subne
 
 ---
 
-### **6. Verify the Attachment**
+### **5. Verify the Attachment**
 
 * This will attach the selected NAT Gateway to the subnet.
 * A success notification will appear confirming the attachment.

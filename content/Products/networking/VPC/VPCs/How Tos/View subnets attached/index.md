@@ -22,17 +22,7 @@ tab: true
 
 In Utho Cloud, viewing the subnets attached to a VPC is essential for managing your network and ensuring that your cloud resources are properly segmented. You can access detailed information about each subnet, including its name, type, and status, directly from the VPC's management page.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the VPC Listing Page**
+### **1. Navigate to the VPC Listing Page**
 
 * After logging in, go to the **VPC** section in the sidebar.
 * Under  **VPC** , click on **VPCs** to access the  **VPC Listing Page** .
@@ -40,7 +30,7 @@ In Utho Cloud, viewing the subnets attached to a VPC is essential for managing y
 
 ---
 
-### **3. Select the VPC**
+### **2. Select the VPC**
 
 * From the  **VPC Listing Page** , locate the VPC for which you want to view attached subnets.
 * Click on the **Name** of the VPC to access the  **VPC Management Page** .
@@ -49,7 +39,7 @@ In Utho Cloud, viewing the subnets attached to a VPC is essential for managing y
 
 ---
 
-### **4. Go to the Subnets Section**
+### **3. Go to the Subnets Section**
 
 * On the  **VPC Management Page** , look for the **Subnet** tab at the top of the page.
 
@@ -58,7 +48,7 @@ In Utho Cloud, viewing the subnets attached to a VPC is essential for managing y
 
 ---
 
-### **5. View Subnet Details**
+### **4. View Subnet Details**
 
 Once you’ve clicked on the **Subnet** tab, the page will display a list of all subnets associated with the VPC, including the following details:
 

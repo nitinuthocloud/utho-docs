@@ -22,26 +22,15 @@ tab: true
 
 Viewing **Elastic IPs** in Utho Cloud allows users to manage and monitor the static, public IP addresses assigned to their cloud resources. These IPs provide critical functionality, such as enabling internet access for cloud resources like **NAT Gateways** and  **instances** . This guide will walk you through the steps to access and view the listing of all **Elastic IPs** in your Utho Cloud account.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the **[Utho Cloud Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered yet, you can sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Elastic IPs Listing Page**
+### **1. Navigate to the Elastic IPs Listing Page**
 
 * After logging in, on the  **left sidebar** , find the **VPC** section.
 * Click on the **VPC** menu item to open a submenu.
 * From the submenu, click on **Elastic IPs** to access the  **Elastic IP Listing Page** .
 * Alternatively, you can directly access the Elastic IPs listing page by clicking on this [link to Elastic IPs Listing](https://console.utho.com/vpc/elasticip).
 
----
 
-### **3. Elastic IPs Listing Page Overview**
+### **2. Elastic IPs Listing Page Overview**
 
 Once you are on the  **Elastic IP Listing Page** , you will see a list of all the **Elastic IPs** associated with your account. The following information is displayed for each Elastic IP:
 
