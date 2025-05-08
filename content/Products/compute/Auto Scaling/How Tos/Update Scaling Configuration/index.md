@@ -21,12 +21,6 @@ tab: true
 
 The **Update Scaling Configuration** feature allows you to modify the scaling parameters of an existing auto scaling instance. This helps adjust the instance’s scalability based on your evolving requirements.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Update Scaling Configuration**
 
 1. **Access the Auto Scaling Listing Page**

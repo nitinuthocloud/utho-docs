@@ -21,11 +21,6 @@ tab: true
 
 The **Update Deployment Configuration** feature allows you to modify the stack, image, and snapshot settings for an existing auto scaling instance. This helps ensure that your application runs with the desired environment and resources.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
 
 ## **Steps to Update Deployment Configuration**
 

@@ -21,12 +21,6 @@ tab: true
 
 The **Destroy** feature allows you to permanently delete an auto scaling instance and all its associated configurations. This action is irreversible and should be performed with caution.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login ](https://console.utho.com/login)page.
-2. Enter your credentials and click  **Login**.
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Destroy an Auto Scaling Instance**
 
 1. **Access the Auto Scaling Listing Page**

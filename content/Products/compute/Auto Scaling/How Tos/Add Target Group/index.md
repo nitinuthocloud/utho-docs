@@ -20,12 +20,6 @@ tab: true
 
 Attaching a **Target Group** to an auto scaling instance helps distribute incoming traffic efficiently across your instances. This feature is essential for load balancing and improving application performance.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Attach a Target Group to Auto Scaling**
 
 1. **Go to the Auto Scaling Listing Page**

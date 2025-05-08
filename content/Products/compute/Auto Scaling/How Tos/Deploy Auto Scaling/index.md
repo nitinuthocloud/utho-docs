@@ -20,22 +20,12 @@ tab: true
 
 Auto Scaling in Utho Cloud allows users to deploy instances that automatically scale based on predefined conditions. Follow this guide to deploy an auto-scaling instance efficiently.
 
----
-
-## **Step 0: Login or Sign Up**
-
-* Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-* Enter your credentials and click **Login** .
-* If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
 
 ## **Step 1: Navigate to Auto Scaling**
 
 * Navigate to the auto scaling listing page in your account, or click [here ](https://console.utho.com/auto-scaling "Auto Scaling Listing Page")to directly access it. .
 * Click **Create New** to open the Auto Scaling deployment page.
 
----
 
 ## **Step 2: Configure Your Auto Scaling Instance**
 

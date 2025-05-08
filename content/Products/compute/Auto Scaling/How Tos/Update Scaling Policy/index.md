@@ -21,12 +21,6 @@ tab: true
 
 Updating scaling policies allows you to modify the rules that govern the auto-scaling of your instance based on resource usage. Adjusting these policies helps fine-tune auto-scaling behavior as your needs evolve, ensuring that your instance operates efficiently without unnecessary resource consumption.
 
-### **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ### **Steps to Update Scaling Policy**
 
 1. **Go to the Auto Scaling Listing Page**

@@ -20,12 +20,6 @@ tab: true
 
 The **Scaling Schedule** feature allows you to define a recurring schedule to scale your auto scaling instance based on your desired configuration. This helps you automate scaling actions at specific times, improving cost-efficiency and performance.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login**.
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Add a Scaling Schedule**
 
 1. **Navigate to the Auto Scaling Listing Page**

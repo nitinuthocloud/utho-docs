@@ -17,14 +17,6 @@ tab: true
 
 # **How to Assign a New Firewall to Auto Scaling**
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
 ## **Overview**
 
 This guide explains how to assign a new firewall to an Auto Scaling instance. A firewall helps secure your instance by controlling inbound and outbound network traffic. You can either create a new firewall or assign an existing one to your instance.

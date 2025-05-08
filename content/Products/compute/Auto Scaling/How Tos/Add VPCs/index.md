@@ -20,12 +20,6 @@ tab: true
 
 Adding a VPC (Virtual Private Cloud) to your auto scaling instance allows for network isolation and secure communication within your cloud infrastructure, improving the security and management of resources.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Add a VPC in Auto Scaling**
 
 1. **Access the Auto Scaling Listing Page**

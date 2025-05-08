@@ -24,19 +24,13 @@ This guide will help you quickly deploy, configure, and manage your Auto Scaling
 
 ## **1. How to Deploy an Auto Scaling Instance**
 
-### **Step 1: Log In or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [Login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
-### **Step 2: Navigate to Auto Scaling**
+### **Step 1: Navigate to Auto Scaling**
 
 1. Open the **Utho Cloud Platform** dashboard.
 2. Click **"Auto Scaling"** in the sidebar.
 3. You’ll be redirected to the  **Auto Scaling Listing Page** , where you can view and manage your scaling instances.
 
-### **Step 3: Deploy a New Auto Scaling Instance**
+### **Step 2: Deploy a New Auto Scaling Instance**
 
 1. Click the **"Create New"** button to open the Auto Scaling deployment page.
 2. Configure your Auto Scaling instance:
@@ -53,7 +47,7 @@ This guide will help you quickly deploy, configure, and manage your Auto Scaling
 8. Provide a **Name** for the instance.
 9. Click **"Deploy Auto Scaling"** to deploy your instance.
 
-### **Step 4: Verify Deployment**
+### **Step 3: Verify Deployment**
 
 1. After deployment, you will be redirected to the **Manage Page** of your newly deployed instance.
 2. Verify the instance's **status** is "Active", which indicates it's running smoothly.
