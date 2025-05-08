@@ -12,13 +12,6 @@ aliases: ["/products/networking/Managed DNS/getting-started/Quick Start"]
 icon: guides
 tab: true
 ---
-## **Login or Sign Up**
-
-1. Go to the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you don't have an account, sign up [here](https://console.utho.com/signup).
-
----
 
 ## **Accessing Managed DNS**
 
