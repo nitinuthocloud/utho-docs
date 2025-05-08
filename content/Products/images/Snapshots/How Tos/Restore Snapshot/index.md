@@ -22,21 +22,14 @@ tab: true
 Restoring a **snapshot** in Utho Cloud allows you to revert a cloud server to a previous state as captured by a snapshot. This feature is useful when you want to undo changes, recover from a failure, or revert to a stable configuration. Restoring a snapshot will replace the current state of your cloud server with the exact state it was in when the snapshot was taken.
 
 ---
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's [Login](https://console.utho.com/login "Login") page.
-* Enter your credentials and click  **Login** .
-* If you are not registered yet, sign up  **[here](https://console.utho.com/signup "Signup")** .
-
-### **2. Navigate to Snapshot Listing Page**
+### **1. Navigate to Snapshot Listing Page**
 
 * Once logged in, go to the **Snapshot Listing Page** or click [here](https://console.utho.com/snapshot "Snapshot Listing Page").
 * On this page, you will see a list of all the snapshots created for your cloud servers.
 
 ---
 
-### **3. Initiate Snapshot Restoration**
+### **2. Initiate Snapshot Restoration**
 
 * In the Snapshot Listing Page, locate the snapshot you want to restore.
 * Click the **Restore** button next to the desired snapshot.
@@ -45,7 +38,7 @@ Restoring a **snapshot** in Utho Cloud allows you to revert a cloud server to a 
 
 ---
 
-### **4. Confirm Snapshot Restoration**
+### **3. Confirm Snapshot Restoration**
 
 * After clicking the **Restore** button, a **confirmation popup** will appear, warning you about the consequences of restoring the snapshot.
   **Important:** When you restore a snapshot, the **current state** of your cloud server will be overwritten with the state of the server when the snapshot was taken. All changes made after the snapshot was created will be lost.
@@ -55,7 +48,7 @@ Restoring a **snapshot** in Utho Cloud allows you to revert a cloud server to a 
 
 ---
 
-### **5. Snapshot Restoration Process**
+### **4. Snapshot Restoration Process**
 
 * Once you confirm, the snapshot restoration process will begin. During the restoration:
   * Your cloud server will be reverted to the exact state it was in at the time the snapshot was taken.
