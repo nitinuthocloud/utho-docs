@@ -24,17 +24,7 @@ tab: true
 
 Deploying a Virtual Private Cloud (VPC) is a crucial step in creating an isolated network for your cloud resources in Utho Cloud. The VPC setup allows you to define your cloud network’s IP address range, name, and data center location. Once created, you can manage your network resources securely.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the VPC Listing Page**
+### **1. Navigate to the VPC Listing Page**
 
 * After logging into the Utho Cloud platform, find the **VPC** section in the sidebar.
 * Under  **VPC** , click on **VPCs** (subsection) to access the  **VPC Listing Page** .
@@ -42,7 +32,7 @@ Deploying a Virtual Private Cloud (VPC) is a crucial step in creating an isolate
 
 ---
 
-### **3. Click on "Create New VPC"**
+### **2. Click on "Create New VPC"**
 
 * On the  **VPC Listing Page** , locate the **"Create New VPC"** button at the top of the page.
 * Click the **"Create New VPC"** button to be redirected to the VPC Deployment Page.
@@ -51,7 +41,7 @@ Deploying a Virtual Private Cloud (VPC) is a crucial step in creating an isolate
 
 ---
 
-### **4. Fill in VPC Deployment Details**
+### **3. Fill in VPC Deployment Details**
 
 On the  **VPC Deployment Page** , you will need to provide the following inputs to create a new VPC:
 
@@ -75,14 +65,14 @@ On the  **VPC Deployment Page** , you will need to provide the following inputs 
 
 ---
 
-### **5. Deploy the VPC**
+### **4. Deploy the VPC**
 
 * After filling in all the necessary information, click the **"Deploy VPC"** button.
 * Utho Cloud will begin the process of deploying the VPC based on the configurations you've provided.
 
 ---
 
-### **6. VPC Deployment Success**
+### **5. VPC Deployment Success**
 
 * Once the VPC is successfully deployed, you will be redirected to the **VPC Management Page** for your newly created VPC, where you can see the current status of the deployed VPC.
 
@@ -90,7 +80,7 @@ On the  **VPC Deployment Page** , you will need to provide the following inputs 
 
 ---
 
-### **7. Verify VPC Deployment**
+### **6. Verify VPC Deployment**
 
 * To verify if the VPC has been deployed successfully, return to the  **VPC Listing Page** .
 * The newly created VPC should appear in the list, with all the details you provided during deployment, including  **Location** ,  **Name** ,  **Network** , and  **Network Size** .

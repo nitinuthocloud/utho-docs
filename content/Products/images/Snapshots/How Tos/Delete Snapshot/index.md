@@ -23,20 +23,14 @@ Deleting a **snapshot** in Utho Cloud permanently removes the saved state of a c
 
 ---
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's [Login](https://console.utho.com/login "Login") page.
-* Enter your credentials and click  **Login** .
-* If you're not registered yet, sign up  **[here](https://console.utho.com/signup "Signup")** .
-
-### **2. Navigate to Snapshot Listing Page**
+### **1. Navigate to Snapshot Listing Page**
 
 * Once logged in, go to the **Snapshot Listing Page** or click [here](https://console.utho.com/snapshots "Snapshot Listing Page").
 * On this page, you will see a list of all the snapshots created for your cloud servers.
 
 ---
 
-### **3. Delete the Snapshot**
+### **2. Delete the Snapshot**
 
 * In the Snapshot Listing Page, locate the snapshot you want to delete.
 * At the end of the row for that snapshot, click the **Delete** button.
@@ -45,7 +39,7 @@ Deleting a **snapshot** in Utho Cloud permanently removes the saved state of a c
 
 ---
 
-### **4. Confirm Snapshot Deletion**
+### **3. Confirm Snapshot Deletion**
 
 * After clicking the **Delete** button, a **confirmation popup** will appear.
 * The popup will ask you to confirm the deletion of the snapshot. Deleting a snapshot is permanent and cannot be undone, so make sure you no longer need the snapshot before proceeding.
@@ -55,7 +49,7 @@ Deleting a **snapshot** in Utho Cloud permanently removes the saved state of a c
 
 ---
 
-### **5. Verify Snapshot Deletion**
+### **4. Verify Snapshot Deletion**
 
 * Once confirmed, the snapshot will be permanently deleted from the system.
 * The snapshot will no longer appear in your  **Snapshot Listing Page** .

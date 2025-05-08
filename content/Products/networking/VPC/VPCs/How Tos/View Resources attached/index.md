@@ -21,17 +21,8 @@ tab: true
 
 In Utho Cloud, you can easily view the resources, such as cloud servers, that are attached to a specific VPC. This helps you manage your cloud infrastructure and ensures that you can quickly identify which resources are linked to your virtual network.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the VPC Listing Page**
+### **1. Navigate to the VPC Listing Page**
 
 * Once logged in, go to the **VPC** section in the sidebar.
 * Under  **VPC** , click on **VPCs** to access the  **VPC Listing Page** .
@@ -39,7 +30,7 @@ In Utho Cloud, you can easily view the resources, such as cloud servers, that ar
 
 ---
 
-### **3. Select the VPC**
+### **2. Select the VPC**
 
 * From the  **VPC Listing Page** , find the VPC for which you want to view attached resources.
 * Click on the **Name** of the VPC to access the  **VPC Management Page** .
@@ -47,7 +38,7 @@ In Utho Cloud, you can easily view the resources, such as cloud servers, that ar
 
 ---
 
-### **4. Go to the Resources Section**
+### **3. Go to the Resources Section**
 
 * On the  **VPC Management Page** , by default, the **Resources** section will be selected.
 * If the **Resources** section is not selected by default, locate the **Resources** tab at the top of the page and click on it.
@@ -56,7 +47,7 @@ In Utho Cloud, you can easily view the resources, such as cloud servers, that ar
 
 ---
 
-### **5. View Attached Resources**
+### **4. View Attached Resources**
 
 * Once the **Resources** tab is selected, the page will display a list of all the **cloud servers** and other resources attached to that VPC (if any).
 * The list will show you details of each resource, such as name, type, and status.

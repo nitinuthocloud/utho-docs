@@ -26,7 +26,6 @@ Virtual Private Clouds (VPCs) in Utho Cloud provide users with a secure, isolate
 
 ### **1. How to View VPCs**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud account.
 * From the **VPC** menu in the sidebar, select **VPCs** to view the  **[VPC Listing Page](https://console.utho.com/vpc)** .
 * The list shows all previously deployed VPCs along with details like:
   * **Location** : The DC Location of the VPC.

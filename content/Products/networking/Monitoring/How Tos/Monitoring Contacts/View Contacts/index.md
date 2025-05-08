@@ -21,23 +21,17 @@ Monitoring Contacts are used to receive alerts and notifications regarding the s
 
 This guide will show you how to view the list of previously added monitoring contacts in your Utho Cloud Platform.
 
-### **1. Log in to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's  **[login page](https://console.utho.com/login)** .
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
-### **2. Navigate to the Monitoring Listing Page**
+### **1. Navigate to the Monitoring Listing Page**
 
 * After logging in, go to the  **Monitoring Listing Page** .
 * You can directly access this page by clicking [here](https://console.utho.com/monitoring "Monitoring Listing Page").
 
-### **3. Go to the "Monitoring Contacts" Tab**
+### **2. Go to the "Monitoring Contacts" Tab**
 
 * On the  **Monitoring Listing Page** , you will find a tab labeled  **"Monitoring Contacts"** .
 * Click on this tab to view the list of all previously added monitoring contacts.
 
-### **4. View the Contacts List**
+### **3. View the Contacts List**
 
 * The **Monitoring Contacts** section will display a list of all monitoring contacts that have been previously added.
 * The list includes details like:

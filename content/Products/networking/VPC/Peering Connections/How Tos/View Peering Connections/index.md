@@ -21,17 +21,8 @@ tab: true
 
 Viewing your **Peering Connections** in Utho Cloud allows users to manage network communications between VPCs. From the **Peering Connections** listing page, users can see all active and inactive connections, including vital details like requester and accepter VPC IDs, status, and creation date.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Go to the Utho Cloud Platform's  **[Login Page](https://console.utho.com/login)** .
-* Enter your credentials and click  **Login** .
-* Don’t have an account? You can sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Peering Connections Listing Page**
+### **1. Navigate to the Peering Connections Listing Page**
 
 * From the left sidebar, click on **Networking** or  **VPC** , depending on the UI structure.
 * Then select **Peering Connections** from the submenu.
@@ -41,7 +32,7 @@ Alternatively, you can access the page directly via this [link to Peering Connec
 
 ---
 
-### **3. Peering Connections Listing Page Overview**
+### **2. Peering Connections Listing Page Overview**
 
 On this page, you’ll see a table listing all existing peering connections. Each entry includes the following details:
 

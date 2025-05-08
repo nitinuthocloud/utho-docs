@@ -14,19 +14,11 @@ icon: "globe"
 tab: true
 ---
 
-
-
 # **How to View Opened Tickets**
 
 ## **Overview**
 
 This guide explains how to view only the open tickets in your ticket listing. By filtering the tickets to show only the open ones, users can easily track and manage unresolved queries.
-
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
 
 ## **Steps to View Opened Tickets**
 

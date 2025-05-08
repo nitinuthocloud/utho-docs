@@ -22,18 +22,12 @@ Deleting an **SSH key** in Utho Cloud is a simple process that removes a previou
 
 ---
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login "Login")** page.
-* Enter your credentials and click  **Login** .
-* If you don't have an account, sign up  **[here](https://console.utho.com/signup "Signup")** .
-
-### **2. Navigate to SSH Key Listing Page**
+### **1. Navigate to SSH Key Listing Page**
 
 * After logging in, go to the **SSH Key Listing Page** or you can click [here](https://console.utho.com/ssh "SSH Keys Listing Page").
 * On this page, you will see a list of all the SSH keys associated with your account.
 
-### **3. Find the SSH Key to Delete**
+### **2. Find the SSH Key to Delete**
 
 * In the SSH Key listing, look for the key that you want to delete.
 * At the end of each listed SSH key, there will be a **Delete** button.
@@ -42,7 +36,7 @@ Deleting an **SSH key** in Utho Cloud is a simple process that removes a previou
 
 ---
 
-### **4. Click on the "Delete" Button**
+### **3. Click on the "Delete" Button**
 
 * Click the **Delete** button next to the SSH key you wish to remove.
 * This will open a **confirmation popup** asking you to confirm the deletion of the SSH key.
@@ -51,14 +45,14 @@ Deleting an **SSH key** in Utho Cloud is a simple process that removes a previou
 
 ---
 
-### **5. Confirm Deletion**
+### **4. Confirm Deletion**
 
 * In the confirmation popup, click the **"OK"** button to proceed with deleting the SSH key.
 * The system will delete the selected SSH key from your account.
 
 ---
 
-### **6. Verify SSH Key Deletion**
+### **5. Verify SSH Key Deletion**
 
 * After the key is successfully deleted, you will see a **success toast notification** confirming the deletion.
 * To verify, return to the  **SSH Key Listing Page** .

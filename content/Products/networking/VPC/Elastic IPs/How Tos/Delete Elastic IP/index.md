@@ -21,17 +21,8 @@ tab: true
 
 Deleting an **Elastic IP** in Utho Cloud allows you to remove a previously allocated static public IP address that is no longer in use. This helps in optimizing your IP management and avoiding unnecessary charges. This guide will walk you through the steps to safely delete an existing Elastic IP from your Utho Cloud account.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the **[Utho Cloud Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you don’t have an account, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Elastic IPs Listing Page**
+### **1. Navigate to the Elastic IPs Listing Page**
 
 * After logging in, go to the **VPC** section in the  **left sidebar** .
 * Click on  **VPC** , then select **Elastic IPs** from the submenu.
@@ -40,14 +31,14 @@ Deleting an **Elastic IP** in Utho Cloud allows you to remove a previously alloc
 
 ---
 
-### **3. Locate the Elastic IP to be Deleted**
+### **2. Locate the Elastic IP to be Deleted**
 
 * On the  **Elastic IP Listing Page** , you will see a list of all your Elastic IPs with relevant details.
 * Browse through the list to find the Elastic IP you wish to delete.
 
 ---
 
-### **4. Click on the "Deallocate" Button**
+### **3. Click on the "Deallocate" Button**
 
 * At the end of the row corresponding to the Elastic IP, you will see a **"Deallocate"** button.
 * Click on the **Deallocate** button to initiate the deletion process.
@@ -56,7 +47,7 @@ Deleting an **Elastic IP** in Utho Cloud allows you to remove a previously alloc
 
 ---
 
-### **5. Confirm the Deletion**
+### **4. Confirm the Deletion**
 
 * A confirmation popup will appear asking if you are sure you want to delete the selected Elastic IP.
 * Click **"OK"** in the popup to confirm the deletion.
@@ -65,7 +56,7 @@ Deleting an **Elastic IP** in Utho Cloud allows you to remove a previously alloc
 
 ---
 
-### **6. Verify the Deletion**
+### **5. Verify the Deletion**
 
 * Once deleted, the Elastic IP will be removed from your listing.
 * To verify, simply check the **Elastic IP Listing Page** again — the deleted IP should no longer appear in the list.

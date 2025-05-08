@@ -26,7 +26,6 @@ A **NAT Gateway** in Utho Cloud enables private cloud resources to securely acce
 
 ### **1. How to View NAT Gateways**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud account.
 * From the **VPC** menu in the sidebar, select **NAT Gateways** to view the  **[NAT Gateway Listing Page]()** .
 * The list shows all previously deployed NAT Gateways with key details such as:
   * **Name** : The name of the NAT Gateway.

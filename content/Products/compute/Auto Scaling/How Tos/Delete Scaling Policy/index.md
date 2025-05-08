@@ -20,12 +20,6 @@ tab: true
 
 Deleting a scaling policy removes a rule governing how the auto-scaling behavior works for your instance. Once deleted, the policy will no longer be applied to your auto-scaling instance. This action is irreversible, so it should be done with caution.
 
-### **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ### **Steps to Delete a Scaling Policy**
 
 1. **Go to the Auto Scaling Listing Page**

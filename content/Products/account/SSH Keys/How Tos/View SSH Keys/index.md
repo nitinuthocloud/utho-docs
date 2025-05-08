@@ -23,20 +23,14 @@ Viewing **SSH keys** in Utho Cloud allows you to access important information ab
 
 ---
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's[ Login](https://console.utho.com/login "Login") page.
-* Enter your credentials and click  **Login** .
-* If you're not registered yet, sign up  **[here](https://console.utho.com/signup "Signup")** .
-
-### **2. Navigate to SSH Key Listing Page**
+### **1. Navigate to SSH Key Listing Page**
 
 * Once logged in, go to the **SSH Key Listing Page** or click [here](https://console.utho.com/ssh "SSH Key Listing Page").
 * On this page, you will find a list of all the SSH keys created in your account.
 
 ---
 
-### **3. View the SSH Key Information**
+### **2. View the SSH Key Information**
 
 * In the SSH Key Listing, you will see the following information for each SSH key:
 

@@ -23,17 +23,8 @@ tab: true
 
 Creating a **Peering Connection** in Utho Cloud allows users to establish secure network communication between two Virtual Private Clouds (VPCs). This process enables you to link different VPCs, facilitating resource sharing and improved network connectivity across your cloud infrastructure.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Go to the Utho Cloud Platform's  **[Login Page](https://console.utho.com/login)** .
-* Enter your credentials and click  **Login** .
-* If you don’t have an account, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Peering Connections Listing Page**
+### **1. Navigate to the Peering Connections Listing Page**
 
 * On the left sidebar, click on **Networking** or  **VPC** , depending on the UI structure.
 * Select **Peering Connections** from the submenu.
@@ -43,7 +34,7 @@ Alternatively, you can access the page directly via this [link to Peering Connec
 
 ---
 
-### **3. Click on the "Create Peering Connection" Button**
+### **2. Click on the "Create Peering Connection" Button**
 
 * At the top of the Peering Connections listing page, click on the **"Create Peering Connection"** button.
 * This action will open a drawer with the necessary configuration options for creating a new peering connection.
@@ -52,7 +43,7 @@ Alternatively, you can access the page directly via this [link to Peering Connec
 
 ---
 
-### **4. Configure the Peering Connection**
+### **3. Configure the Peering Connection**
 
 In the drawer, you will need to provide the following details:
 
@@ -69,14 +60,14 @@ In the drawer, you will need to provide the following details:
 
 ---
 
-### **5. Create the Peering Connection**
+### **4. Create the Peering Connection**
 
 * After filling in the necessary details, click on the **"Create Peering Connection"** button.
 * This will create the peering connection and add it to your list of peering connections.
 
 ---
 
-### **6. Verify the Peering Connection**
+### **5. Verify the Peering Connection**
 
 * You can verify the newly created peering connection in the  **Peering Connections Listing Page** .
 * The connection will be listed along with its status, requester and accepter VPCs, and other relevant details.

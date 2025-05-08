@@ -20,12 +20,6 @@ tab: true
 
 Managing scaling policies allows you to define rules for auto-scaling based on resource usage, such as CPU or RAM. This ensures your auto-scaling instance dynamically adjusts according to demand, improving performance and cost efficiency.
 
-### **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ### **Steps to Manage Scaling Policy**
 
 1. **Go to the Auto Scaling Listing Page**

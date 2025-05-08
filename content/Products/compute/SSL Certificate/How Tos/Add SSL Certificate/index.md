@@ -25,20 +25,14 @@ Adding an **SSL certificate** in Utho Cloud allows you to secure your domain or 
 
 ---
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered yet, sign up  **[here](https://console.utho.com/signup)** .
-
-### **2. Navigate to SSL Certificates Listing Page**
+### **1. Navigate to SSL Certificates Listing Page**
 
 * After logging in, go to the **SSL Certificates Listing Page** or click [here](https://console.utho.com/ssl "SSL Listing Page").
 * On this page, you will see the list of all SSL certificates created in your account.
 
 ---
 
-### **3. Add a New SSL Certificate**
+### **2. Add a New SSL Certificate**
 
 * On the  **SSL Certificates Listing Page** , click on the **"Add SSL Certificate"** button at the top of the page.
 
@@ -69,7 +63,7 @@ Adding an **SSL certificate** in Utho Cloud allows you to secure your domain or 
   -----END RSA PRIVATE KEY-----
   ```
 
-#### 4. **Certificate Chain (Optional)**
+#### 5. **Certificate Chain (Optional)**
 
 * This is the **certificate chain** provided by your certificate authority. It typically includes the intermediate certificates that help establish the trust of your certificate. You can add this in the **optional** section.
 
@@ -77,7 +71,7 @@ Adding an **SSL certificate** in Utho Cloud allows you to secure your domain or 
 
 ---
 
-### **4. Save the SSL Certificate**
+### **3. Save the SSL Certificate**
 
 * After entering all the required information, click on the **"Add SSL Certificate"** button to submit the form.
 * A **success toast notification** will appear, confirming that the SSL certificate has been successfully added.
@@ -86,7 +80,7 @@ Adding an **SSL certificate** in Utho Cloud allows you to secure your domain or 
 
 ---
 
-### **5. Verify SSL Certificate Addition**
+### **4. Verify SSL Certificate Addition**
 
 * To verify that your SSL certificate has been added, return to the  **SSL Certificates Listing Page** .
 * The newly added SSL certificate should now appear in the list with its details, including its name, issuer, creation date, and expiration date.

@@ -22,17 +22,8 @@ tab: true
 
 Viewing the attached subnets to a NAT Gateway helps users understand which subnets are using the gateway for internet access. This guide will walk you through the process of viewing the subnets attached to a NAT Gateway, including key information like the subnet's name, network, default status, and more.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the NAT Gateway Listing Page**
+### **1. Navigate to the NAT Gateway Listing Page**
 
 * On the left sidebar of the platform, find the **VPC** menu.
 * Under the **VPC** section, select  **NAT Gateways** .
@@ -42,7 +33,7 @@ Alternatively, you can directly access the NAT Gateway listing page by clicking 
 
 ---
 
-### **3. Choose a NAT Gateway to View Attached Subnets**
+### **2. Choose a NAT Gateway to View Attached Subnets**
 
 * On the  **NAT Gateway Listing Page** , select the **NAT Gateway** for which you want to view the attached subnets.
 * Click on the **"Manage"** button next to the chosen NAT Gateway. This will redirect you to the  **NAT Gateway Manage Page** .
@@ -51,13 +42,13 @@ Alternatively, you can directly access the NAT Gateway listing page by clicking 
 
 ---
 
-### **4. Navigate to the Subnets Tab**
+### **3. Navigate to the Subnets Tab**
 
 * By default, the **"Subnet"** tab will be selected when you are on the  **NAT Gateway Manage Page** . If not, click on the **"Subnet"** tab to view the list of attached subnets.
 
 ---
 
-### **5. View Attached Subnets**
+### **4. View Attached Subnets**
 
 In the  **Subnet Tab** , you'll see a list of subnets that are attached to the selected NAT Gateway. The following information is provided for each attached subnet:
 

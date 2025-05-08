@@ -25,7 +25,6 @@ An **Elastic IP** in Utho Cloud is a static public IP address that can be associ
 
 ### **1. How to View Elastic IPs**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud account.
 * From the **VPC** menu in the sidebar, select **Elastic IPs** to open the  **[Elastic IP Listing Page](https://console.utho.com/vpc/elasticip)** .
 * This page displays all currently allocated Elastic IPs along with key details such as:
   * **Elastic IP ID** : Unique identifier of the IP.

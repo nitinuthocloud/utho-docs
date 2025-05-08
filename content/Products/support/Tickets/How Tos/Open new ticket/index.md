@@ -18,12 +18,6 @@ tab: true
 
 This guide explains how to open a new ticket in Utho Cloud for any queries or issues related to services provided by Utho.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login "Login") page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup "Sign Up").
-
 ## **Steps to Open a New Ticket**
 
 1. **Navigate to the Ticket Listing Page**

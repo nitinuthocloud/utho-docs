@@ -21,12 +21,6 @@ tab: true
 
 This guide will help you view all the closed tickets in your Utho Cloud Platform account. Follow the steps below to filter and view the tickets that have been marked as closed.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to View Closed Tickets**
 
 1. **Access the Tickets Listing Page**

@@ -21,12 +21,6 @@ tab: true
 
 Updating a scaling schedule allows you to modify the recurrence, desired size, time, and other configuration settings to better suit your auto scaling needs. This helps in adjusting your auto scaling strategy for changing requirements.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Update a Scaling Schedule**
 
 1. **Navigate to the Auto Scaling Listing Page**

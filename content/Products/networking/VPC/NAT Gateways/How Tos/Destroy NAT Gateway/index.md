@@ -23,17 +23,8 @@ Destroying a **NAT Gateway** in Utho Cloud is a permanent action that will remov
 
 This guide will walk you through the steps to destroy a NAT Gateway in Utho Cloud.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the NAT Gateway Manage Page**
+### **1. Navigate to the NAT Gateway Manage Page**
 
 * On the left sidebar of the platform, find the **VPC** menu.
 * Under the **VPC** section, click on  **NAT Gateways** .
@@ -45,14 +36,14 @@ This guide will walk you through the steps to destroy a NAT Gateway in Utho Clou
 
 ---
 
-### **3. Go to the Destroy Tab**
+### **2. Go to the Destroy Tab**
 
 * In the  **NAT Gateway Manage Page** , locate the **Destroy** tab.
 * Click on the **Destroy** tab to access the option to delete the NAT Gateway.
 
 ---
 
-### **4. Destroy the NAT Gateway**
+### **3. Destroy the NAT Gateway**
 
 * In the **Destroy** tab, you will find the **"Destroy NAT Gateway"** button.
 * Click on this button to initiate the destruction process.
@@ -61,7 +52,7 @@ This guide will walk you through the steps to destroy a NAT Gateway in Utho Clou
 
 ---
 
-### **5. Confirmation Popup**
+### **4. Confirmation Popup**
 
 * After clicking the **"Destroy NAT Gateway"** button, a **confirmation popup** will appear.
 * The popup will ask for the **exact name** of the NAT Gateway to confirm that you want to destroy it.
@@ -73,14 +64,14 @@ This guide will walk you through the steps to destroy a NAT Gateway in Utho Clou
 
 ---
 
-### **6. Confirm Destruction**
+### **5. Confirm Destruction**
 
 * After entering the NAT Gateway’s name in the input field, click on the **"Destroy"** button in the popup.
 * This will permanently destroy the NAT Gateway and remove it from your network.
 
 ---
 
-### **7. Verify the NAT Gateway Destruction**
+### **6. Verify the NAT Gateway Destruction**
 
 * After the destruction is complete, you will be redirected to the  **NAT Gateway Listing Page** .
 * On this page, you can verify whether the NAT Gateway has been successfully deleted.

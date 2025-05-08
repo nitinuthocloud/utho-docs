@@ -22,17 +22,7 @@ tab: true
 
 Viewing the subnets attached to your Virtual Private Clouds (VPCs) in Utho Cloud enables you to manage the network configuration within your VPCs more effectively. The subnets listing page provides an overview of all the subnets created, along with important details like subnet name, IP range, and which VPC the subnet belongs to. You can also manage each subnet directly from this page.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Subnets Listing Page**
+### **1. Navigate to the Subnets Listing Page**
 
 * On the left sidebar of the platform, look for the **VPC** menu item.
 * Under the **VPC** section, select **Subnets** (subsection).
@@ -42,7 +32,7 @@ You can also access the subnets listing directly by clicking this link to[ Subne
 
 ---
 
-### **3. Subnets Listing Page Overview**
+### **2. Subnets Listing Page Overview**
 
 On the  **Subnets Listing Page** , you will see a list of all the subnets that have been created in your VPCs. Each subnet in the list will display the following details:
 

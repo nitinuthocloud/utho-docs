@@ -14,14 +14,6 @@ tab: true
 ---
 # **How to create Load Balanacer**
 
-# **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login ](https://console.utho.com/login)page.
-2. Enter your credentials and click  **Login**.
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
 ## **Step 1: Access the Load Balanacer**
 
 1. Open the **Utho Cloud Platform** dashboard.

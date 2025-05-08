@@ -25,30 +25,25 @@ In Utho Cloud, firewalls are used to manage the traffic that is allowed or block
 
 ### **Steps to Add Rules in Firewall**
 
-#### **1. Log into Your Utho Cloud Platform Account**
 
-* Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-* Enter your credentials and click  **Login** .
-* If you’re not registered, sign up [here](https://console.utho.com/signup).
-
-#### **2. Navigate to the Firewall Listing Page**
+#### **1. Navigate to the Firewall Listing Page**
 
 * After logging in, go to the **Firewall Listing Page** from the navigation menu or the dashboard.
 * To directly access this page you can click [here](https://console.utho.com/firewall "Firewall Listing Page").
 
-#### **3. Select the Firewall You Want to Modify**
+#### **2. Select the Firewall You Want to Modify**
 
 * Find the firewall you wish to add rules to, and click on the **Manage** button next to it. This will take you to the firewall's  **Manage Page** .
 
   ![1744020223875](image/index/1744020223875.png)
 
-#### **4. Go to the Rules Section**
+#### **3. Go to the Rules Section**
 
 * Upon arriving at the  **Manage Page** , you will find a **Rules** section at the top right corner of the page.
 * By default, you will land on the **Rules** section.
 * If you are not already in the **Rules** section, simply click on the **Rules** tab at the top-right corner of the page to access the section.
 
-#### **5. Understand Incoming and Outgoing Rules**
+#### **4. Understand Incoming and Outgoing Rules**
 
 In this section, you will find two types of rules: **Incoming Rules** and  **Outgoing Rules** .
 
@@ -59,7 +54,7 @@ In this section, you will find two types of rules: **Incoming Rules** and  **Out
 
   ![1744020282563](image/index/1744020282563.png)
 
-#### **6. Adding New Rules**
+#### **5. Adding New Rules**
 
 You can add new rules for both **incoming** and **outgoing** traffic directly through the provided input fields by clicking the **Add New** buttons:
 
@@ -70,7 +65,7 @@ Upon clicking these buttons, the rule will be added to the firewall immediately.
 
 ---
 
-### **7. Configuring Rule Inputs**
+### **6. Configuring Rule Inputs**
 
 When adding a new rule, you will need to fill out the following fields that are provided in the form:
 
@@ -102,7 +97,7 @@ When adding a new rule, you will need to fill out the following fields that are 
 
 ---
 
-### **8. Save the Rule**
+### **7. Save the Rule**
 
 After you have entered all the necessary information for the rule, click on the **"Add New"** button next to the respective **Incoming** or **Outgoing** section. This will save the rule and apply it to the firewall configuration.
 
@@ -112,7 +107,7 @@ After you have entered all the necessary information for the rule, click on the 
 
 ---
 
-### **9. Verify the Rule**
+### **8. Verify the Rule**
 
 After adding the rule, it will appear in the **Incoming Rules** or **Outgoing Rules** list. You can verify the following:
 

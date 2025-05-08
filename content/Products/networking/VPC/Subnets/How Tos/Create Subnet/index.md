@@ -14,15 +14,7 @@ icon: "globe"
 tab: true
 ---
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Subnets Listing Page**
+### **1. Navigate to the Subnets Listing Page**
 
 * On the left sidebar of the platform, look for the **VPC** menu item.
 * Under the **VPC** section, select **Subnets** (subsection).
@@ -32,7 +24,7 @@ You can also access the Subnets listing directly by clicking this [link to Subne
 
 ---
 
-### **3. Create a Subnet**
+### **2. Create a Subnet**
 
 On the  **Subnets Listing Page** , follow these steps to create a new subnet:
 

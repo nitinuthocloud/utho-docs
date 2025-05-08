@@ -25,7 +25,6 @@ Monitoring in Utho Cloud helps users track and manage their cloud infrastructure
 
 ### **1. How to Add a Monitoring Contact**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud Platform account.
 * Navigate to the **Monitoring Listing [Page](https://console.utho.com/monitoring)** and click on the **"Monitoring Contacts"** tab.
 * Click the **"Add New"** button to open the input form.
 * Fill in the required details:

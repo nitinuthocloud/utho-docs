@@ -23,20 +23,14 @@ Viewing **snapshots** in Utho Cloud provides you with a comprehensive overview o
 
 ---
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's [Login](https://console.utho.com/login "Login") page.
-* Enter your credentials and click  **Login** .
-* If you are not registered yet, sign up  **[here](https://console.utho.com/signup "Signup")** .
-
-### **2. Navigate to Snapshot Listing Page**
+### **1. Navigate to Snapshot Listing Page**
 
 * Once logged in, go to the **Snapshot Listing Page** or click [here](https://console.utho.com/snapshots "Snapshot Listing Page").
 * On this page, you will see a list of all the snapshots created for your cloud servers.
 
 ---
 
-### **3. View Snapshot Information**
+### **2. View Snapshot Information**
 
 In the Snapshot Listing Page, you will find a table with the following details for each snapshot:
 

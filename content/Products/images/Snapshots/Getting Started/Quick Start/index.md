@@ -24,7 +24,6 @@ Snapshots in Utho Cloud allow you to save and restore the state of your cloud se
 
 ### **1. How to View Snapshots**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud Platform account.
 * Navigate to the **Snapshot Listing Page** or click [here](https://console.utho.com/snapshot) to view all snapshots.
 * On this page, you can view important snapshot details, including:
   * **ID** : Unique identifier for the snapshot.

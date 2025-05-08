@@ -21,17 +21,8 @@ tab: true
 
 Destroying a subnet in Utho Cloud allows users to permanently remove a subnet from their VPC configuration. This is useful when no longer needing a subnet or when performing cleanup operations. In this guide, we'll walk through the steps required to destroy a subnet, ensuring that you can easily remove unwanted subnets from your network infrastructure.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the Subnet Listing Page**
+### **1. Navigate to the Subnet Listing Page**
 
 * On the left sidebar of the platform, look for the **VPC** menu item.
 * Under the **VPC** section, select **Subnets** (subsection).
@@ -41,7 +32,7 @@ You can also access the Subnet listing directly by clicking this [link to Subnet
 
 ---
 
-### **3. Choose the Subnet to Destroy**
+### **2. Choose the Subnet to Destroy**
 
 * On the  **Subnet Listing Page** , locate the subnet you want to destroy.
 * At the end of the subnet entry, click on the **"Manage"** button to go to the manage page of that subnet.
@@ -50,7 +41,7 @@ You can also access the Subnet listing directly by clicking this [link to Subnet
 
 ---
 
-### **4. Go to the "Destroy Subnet" Tab**
+### **3. Go to the "Destroy Subnet" Tab**
 
 * In the manage page of the selected subnet, you will see several tabs.
 * Click on the **"Destroy Subnet"** tab to begin the process of destroying the subnet.
@@ -59,14 +50,14 @@ You can also access the Subnet listing directly by clicking this [link to Subnet
 
 ---
 
-### **5. Destroy the Subnet**
+### **4. Destroy the Subnet**
 
 * On the **"Destroy Subnet"** tab, you will find a button titled  **"Destroy Subnet"** .
 * Clicking this button will open a  **confirmation popup** .
 
 ---
 
-### **6. Confirmation Popup**
+### **5. Confirmation Popup**
 
 * In the confirmation popup, you will be asked to enter the **exact name of the subnet** you wish to destroy.
 * After entering the name of the subnet correctly, click on the **"Destroy"** button to confirm the action.
@@ -75,7 +66,7 @@ You can also access the Subnet listing directly by clicking this [link to Subnet
 
 ---
 
-### **7. Verify the Subnet is Destroyed**
+### **6. Verify the Subnet is Destroyed**
 
 * After the destruction is successful, you will be redirected back to the  **Subnet Listing Page** .
 * The destroyed subnet will no longer be listed in the subnets list.

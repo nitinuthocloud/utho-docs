@@ -21,12 +21,6 @@ tab: true
 
 The **View All Tickets** feature allows users to access a comprehensive list of all tickets they’ve raised. From here, users can monitor the status, department, and other details of their support, billing, or sales queries.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to View All Tickets**
 
 1. **Access the Tickets Listing Page**

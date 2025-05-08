@@ -25,7 +25,6 @@ Subnets in Utho Cloud allow you to create isolated network environments within y
 
 ### **1. How to View Subnets**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud account.
 * From the **VPC** menu in the sidebar, select **Subnets** to view the  **[Subnet Listing Page](https://console.utho.com/vpc/subnets "Subnets Listing Page")** .
 * The list will show all the subnets created, with the following details:
   * **Name** : The name of the subnet.

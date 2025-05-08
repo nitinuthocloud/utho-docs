@@ -23,17 +23,8 @@ tab: true
 
 Subnets are used to divide a VPC's network into smaller segments, allowing you to better organize and control your resources. In Utho Cloud, you can create a subnet by configuring key network parameters and selecting various options for how it should function.  The subnet created thorugh VPC's manage page automatically gets attached to the selected vpc. This guide will walk you through the steps to create a subnet in your VPC.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the VPC Management Page**
+### **1. Navigate to the VPC Management Page**
 
 * Once logged in, go to the **VPC** section in the sidebar.
 * Under  **VPC** , click on **VPCs** to access the  **VPC [Listing Page](https://console.utho.com/vpc "VPC Listing Page")** .
@@ -43,13 +34,13 @@ Subnets are used to divide a VPC's network into smaller segments, allowing you t
 
 ---
 
-### **3. Access the Subnets Section**
+### **2. Access the Subnets Section**
 
 * On the  **VPC Management Page** , click on the **Subnet** tab to view the existing subnets of the selected VPC.
 
 ---
 
-### **4. Click on "Create Subnet"**
+### **3. Click on "Create Subnet"**
 
 * At the top of the **Subnets** list, you will see a button labeled  **"Create Subnet"** .
 * Click on the **"Create Subnet"** button to open the configuration drawer for creating a new subnet.
@@ -58,7 +49,7 @@ Subnets are used to divide a VPC's network into smaller segments, allowing you t
 
 ---
 
-### **5. Fill in the Subnet Configuration**
+### **4. Fill in the Subnet Configuration**
 
 In the drawer, you need to fill in the following details to configure the new subnet:
 
@@ -97,14 +88,14 @@ In the drawer, you need to fill in the following details to configure the new su
 
 ---
 
-### **6. Click on "Create Subnet"**
+### **5. Click on "Create Subnet"**
 
 * After filling out the necessary fields, click on the **"Create Subnet"** button to initiate the subnet creation.
 * The system will begin creating the subnet with the configurations you’ve specified.
 
 ---
 
-### **7. Verify the Creation**
+### **6. Verify the Creation**
 
 * Once the subnet is successfully created, a success toast notification will appear to confirm the creation.
 * To verify, you can check the **Subnet** list under the **Subnets** tab in the VPC's management page. The newly created subnet should appear in the list with the correct configuration.

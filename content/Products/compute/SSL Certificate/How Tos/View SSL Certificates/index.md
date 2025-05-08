@@ -22,20 +22,15 @@ Viewing **SSL certificates** in Utho Cloud allows you to access important detail
 
 ---
 
-### **1. Login to Utho Cloud Platform**
 
-* Visit the Utho Cloud Platform's **[ Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered yet, sign up  **[here](https://console.utho.com/signup)** .
-
-### **2. Navigate to SSL Certificates Listing Page**
+### **1. Navigate to SSL Certificates Listing Page**
 
 * After logging in, go to the **SSL Certificates Listing Page** or click [here](https://console.utho.com/ssl "SSL Listing Page").
 * On this page, you will find a list of all the SSL certificates created in your account.
 
 ---
 
-### **3. View the SSL Certificate Information**
+### **2. View the SSL Certificate Information**
 
 * In the **SSL Certificates Listing** page, you will see the following details for each SSL certificate:
 

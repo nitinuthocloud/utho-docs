@@ -18,15 +18,8 @@ tab: true
 
 Utho’s Active Sessions feature allows users to monitor and manage the devices where their account is currently logged in. This guide provides detailed instructions on how to view active sessions and log out from specific devices.
 
-## **Login or Sign Up**
 
-1. Visit the **Utho Cloud Platform** [login ](https://console.utho.com/login)page.
-2. Enter your credentials and click  **Login**.
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
-## **Step 1: Access the Active sessions**
+### **Access the Active sessions**
 
 1. Open the **Utho Cloud Platform** dashboard.
 2. Click **"[Active sessions](https://console.utho.com/active-session)"** in the sidebar.

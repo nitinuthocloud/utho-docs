@@ -22,17 +22,7 @@ tab: true
 
 Creating a NAT Gateway in Utho Cloud enables resources in private subnets to access the internet securely while keeping them shielded from direct inbound internet traffic. This guide will walk you through the process of creating a new NAT Gateway, including configuring its name, subnet, and Elastic IP allocation.
 
----
-
-### **1. Login to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's **[Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to the NAT Gateway Listing Page**
+### **1. Navigate to the NAT Gateway Listing Page**
 
 * On the left sidebar of the platform, find the **VPC** menu.
 * Under the **VPC** section, select  **NAT Gateways** .
@@ -42,7 +32,7 @@ Alternatively, you can directly access the NAT Gateway listing page by clicking 
 
 ---
 
-### **3. Create a New NAT Gateway**
+### **2. Create a New NAT Gateway**
 
 At the top of the  **NAT Gateway Listing Page** , you'll find a button labeled  **"Create NAT Gateway"** . Clicking this button will open a configuration drawer where you'll need to enter several details for the new NAT Gateway.
 
@@ -50,7 +40,7 @@ At the top of the  **NAT Gateway Listing Page** , you'll find a button labeled  
 
 ---
 
-### **4. Configure the NAT Gateway**
+### **3. Configure the NAT Gateway**
 
 In the configuration drawer, you'll be prompted to provide the following information for the new NAT Gateway:
 
@@ -70,13 +60,13 @@ In the configuration drawer, you'll be prompted to provide the following informa
 
 ---
 
-### **5. Create the NAT Gateway**
+### **4. Create the NAT Gateway**
 
 Once all the configuration inputs have been filled, click on the **"Create NAT Gateway"** button. This will initiate the creation of the NAT Gateway with the specified settings.
 
 ---
 
-### **6. Verify NAT Gateway Creation**
+### **5. Verify NAT Gateway Creation**
 
 After the NAT Gateway has been created, you’ll be redirected back to the  **NAT Gateway Listing Page** , where you can verify that your newly created NAT Gateway is listed with the provided details. You can now manage the NAT Gateway as needed.
 
