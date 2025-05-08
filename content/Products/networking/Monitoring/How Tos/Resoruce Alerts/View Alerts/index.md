@@ -19,25 +19,19 @@ tab: true
 
 This guide will walk you through the steps to view the resource alerts on your Utho Cloud Monitoring page. Resource alerts help you keep track of various system parameters such as CPU usage, memory utilization, disk activity, and network performance. These alerts notify you when specific thresholds are met for the selected resources.
 
-### **1. Log in to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's  **[login page](https://console.utho.com/login)** .
-* Enter your credentials and click  **Login** .
-* If you’re not registered, sign up  **[here](https://console.utho.com/signup)** .
-
-### **2. Navigate to the Monitoring Listing Page**
+### **1. Navigate to the Monitoring Listing Page**
 
 * After logging in, go to the **Monitoring Listing Page** to view all monitoring-related data.
 * This page can be accessed directly via the **Monitoring** tab or by clicking  **[here](https://console.utho.com/monitoring "Monitoring Listing Page")** .
 
-### **3. Access the "Resource Alerts" Tab**
+### **2. Access the "Resource Alerts" Tab**
 
 * By default, the **"Resource Alerts"** tab will be selected on the  **Monitoring Listing Page** .
 * If it is not selected, click on the **"Resource Alerts"** tab to load the data.
 
   ![1744029126457](image/index/1744029126457.png)
 
-### **4. View Resource Alerts**
+### **3. View Resource Alerts**
 
 Once the **"Resource Alerts"** tab is selected, you will see a list of all resource alerts associated with your account. Each alert contains the following information:
 
@@ -54,7 +48,7 @@ Once the **"Resource Alerts"** tab is selected, you will see a list of all resou
   * **30 mins**
   * etc.
 
-### **5. Action Buttons**
+### **4. Action Buttons**
 
 Each resource alert will have the following action buttons for management:
 

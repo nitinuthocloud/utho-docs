@@ -20,30 +20,24 @@ tab: true
 
 This guide will show you how to create a resource alert to monitor various system parameters such as CPU usage, memory utilization, disk activity, and network performance on your Utho Cloud platform. Resource alerts help ensure that your infrastructure is performing as expected and notify you when certain thresholds are reached.
 
-### **1. Log in to Utho Cloud Platform**
-
-* Visit the Utho Cloud Platform's  **[login page](https://console.utho.com/login)** .
-* Enter your credentials and click  **Login** .
-* If you're not registered, sign up  **[here](https://console.utho.com/signup)** .
-
-### **2. Navigate to the Monitoring Listing Page**
+### **1. Navigate to the Monitoring Listing Page**
 
 * After logging in, go to the **Monitoring Listing Page** to view and manage your monitoring settings.
 * You can access this page directly via the **Monitoring** tab or by clicking  **[here](https://console.utho.com/monitoring "Monitoring Resource Listing")** .
 
-### **3. Go to the "Resource Alerts" Tab**
+### **2. Go to the "Resource Alerts" Tab**
 
 * By default, the **"Resource Alerts"** tab will be selected.
 * If it is not already selected, click on the **"Resource Alerts"** tab to load the resource alerts section.
 
   ![1744030618869](image/index/1744030618869.png)
 
-### **4. Click on "Create Alert"**
+### **3. Click on "Create Alert"**
 
 * At the top of the **Resource Alerts** list, there is a **"Create Alert"** button.
 * Click on this button to open a drawer for creating a new resource alert.
 
-### **5. Fill in the Resource Alert Parameters**
+### **4. Fill in the Resource Alert Parameters**
 
 The drawer will display the following fields for creating the resource alert:
 
@@ -78,11 +72,11 @@ The drawer will display the following fields for creating the resource alert:
 
     ![1744030706606](image/index/1744030706606.png)
 
-### **6. Click "Create Alert"**
+### **5. Click "Create Alert"**
 
 * Once all the fields are filled out and the desired settings are configured, click the **"Create Alert"** button to create the resource alert.
 
-### **7. Verify the Resource Alert**
+### **6. Verify the Resource Alert**
 
 * After clicking the **"Create Alert"** button, the alert will be added to the resource alerts list.
 * The page will refresh, and you can verify the newly created resource alert by checking the **"Resource Alerts"** tab again. You should see the new alert listed with the parameters you set.
