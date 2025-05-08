@@ -14,15 +14,8 @@ tab: true
 ---
 # **How to create Api Token**
 
-## **Login or Sign Up**
 
-1. Visit the **Utho Cloud Platform** [login ](https://console.utho.com/login)page.
-2. Enter your credentials and click  **Login**.
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
-## **Step 1: Access the Api Token**
+### **Access the Api Token**
 
 1. Open the **Utho Cloud Platform** dashboard.
 2. Click **"Api Token"** in the sidebar.
