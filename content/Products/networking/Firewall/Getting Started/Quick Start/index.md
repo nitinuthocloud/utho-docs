@@ -21,7 +21,6 @@ A **Firewall** in Utho Cloud helps secure your cloud infrastructure by controlli
 
 ### **1. How to Deploy a Firewall**
 
-* **[Login](https://console.utho.com/login)** to your Utho Cloud Platform account.
 * Navigate to the **Firewall Listing [Page](https://console.utho.com/firewall)** and click the **"Create New Firewall"** button to start the deployment process.
 * Fill in the required details:
   * **Name** : Provide a unique name for your firewall.
