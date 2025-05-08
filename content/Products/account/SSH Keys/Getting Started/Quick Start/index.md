@@ -49,7 +49,6 @@ After generation, the SSH key will be stored in the default directory (`~/.ssh/`
 
 Once your SSH keys are created, you can view them within the Utho Cloud Platform.
 
-* **Login** to your Utho Cloud Platform account.
 * Navigate to the **SSH Key Listing Page** to see all SSH keys that have been created.
 * In the listing, you will find the following information for each SSH key:
   * **Name** : The name of the SSH key.
@@ -63,7 +62,6 @@ Once your SSH keys are created, you can view them within the Utho Cloud Platform
 
 To create a new SSH key, follow these steps:
 
-* **Login** to your Utho Cloud Platform account.
 * Navigate to the **SSH Key Listing Page** and click the **"Create SSH Key"** button at the top of the page.
 * Fill in the following details:
   * **Name** : Provide a unique name for your SSH key.
