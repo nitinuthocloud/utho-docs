@@ -14,8 +14,6 @@ tab: true
 ---
 ## Overview of manage Section:
 
-    ![1743757879604](image/index/1743757879604.png)
-
 ### Subuser
 
 A **Subuser** is a secondary user account that is created under a primary or root account in a cloud service, platform, or application. Subusers are granted specific roles and permissions that allow them to access and manage certain resources, but they typically do not have full control over the primary account or sensitive settings. The purpose of subusers is to delegate tasks, streamline collaboration, and enforce role-based access control while maintaining security and governance.
