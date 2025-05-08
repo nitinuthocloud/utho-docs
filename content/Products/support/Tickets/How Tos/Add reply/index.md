@@ -21,15 +21,6 @@ tab: true
 The **Add Reply** feature allows you to respond to a ticket after it has been opened. You can provide additional details or clarify your issue for the respective team handling the ticket.
 
 ---
-
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
 ## **Steps to Add Reply on a Ticket**
 
 1. **Navigate to the Ticket Listing Page**

@@ -22,14 +22,6 @@ The **Re-open Ticket** feature allows you to re-open a closed ticket by adding a
 
 ---
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
 ## **Steps to Re-open a Ticket**
 
 1. **Navigate to the Ticket Listing Page**

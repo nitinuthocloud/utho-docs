@@ -22,14 +22,6 @@ The **Upload Files in Ticket Reply** feature allows you to attach documents or f
 
 ---
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
----
-
 ## **Steps to Upload Files in Ticket Reply**
 
 1. **Navigate to the Ticket Listing Page**

@@ -48,7 +48,6 @@ The ticketing system is designed to streamline communication between users and U
 
 ### **1. How to Open a Ticket**
 
-* **Login** to the Utho Cloud Platform.
 * Navigate to the **Tickets Listing Page** and click the **Open New Ticket** button.
 * Select the appropriate **Department** (Support, Billing, or Sales) and specify the **Priority** (Medium, Urgent, Low).
 * Enter the **Subject** and provide a detailed **Message** about your issue.
