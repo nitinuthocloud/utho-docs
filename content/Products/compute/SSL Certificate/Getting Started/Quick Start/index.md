@@ -21,24 +21,15 @@ tab: true
 
 SSL certificates are essential for securing communications between your cloud resources and users, ensuring data is encrypted and transmitted securely. In Utho Cloud, you can easily manage SSL certificates by creating, viewing, and deleting them through the platform's intuitive interface.
 
----
 
-### **1. Login to Utho Cloud Platform**
-
-* Visit the **[Utho Cloud Platform Login](https://console.utho.com/login)** page.
-* Enter your credentials and click  **Login** .
-* If you’re not registered yet, sign up  **[here](https://console.utho.com/signup)** .
-
----
-
-### **2. Navigate to SSL Certificates Listing Page**
+### **1. Navigate to SSL Certificates Listing Page**
 
 * Once logged in, go to the **SSL Certificates Listing Page** or click [here](https://console.utho.com/ssl "SSL Listing Page").
 * Here, you’ll see a list of all the SSL certificates associated with your account.
 
 ---
 
-### **3. Add a New SSL Certificate**
+### **2. Add a New SSL Certificate**
 
 * To add a new SSL certificate, click the **"Add SSL Certificate"** button at the top of the listing page.
 * This will open a drawer where you’ll need to provide the following details:
@@ -51,7 +42,7 @@ SSL certificates are essential for securing communications between your cloud re
 
 ---
 
-### **4. View SSL Certificates**
+### **3. View SSL Certificates**
 
 * Once the SSL certificate is added, it will appear in the SSL certificates listing.
 * You can view the following details for each certificate:
@@ -63,7 +54,7 @@ SSL certificates are essential for securing communications between your cloud re
 
 ---
 
-### **5. Delete an SSL Certificate**
+### **4. Delete an SSL Certificate**
 
 * To delete an SSL certificate, locate the certificate in the  **SSL Certificates Listing Page** .
 * At the end of each certificate entry, click the **Delete** button.
