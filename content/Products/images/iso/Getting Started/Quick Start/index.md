@@ -47,7 +47,6 @@ The purpose of ISO files is to provide users with a convenient and efficient way
 
 ### **1. How to Add an ISO**
 
-* **Login** to your Utho Cloud Platform account.
 * Navigate to the **ISO Listing Page** and locate the section titled **"Add ISO in your account."**
 * Select a **Datacenter** where you want to add the ISO.
 * Enter the **URL** of the ISO file.

@@ -20,12 +20,6 @@ tab: true
 
 Adding an ISO file to your Utho Cloud account allows you to deploy custom installations seamlessly. The process involves selecting the appropriate data center, entering the ISO URL, and assigning a name for the ISO. Once added, you can use the ISO for provisioning virtual machines or configuring servers.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Add ISO**
 
 ### **1. Navigate to the ISO Listing Page**

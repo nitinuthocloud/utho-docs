@@ -20,12 +20,6 @@ tab: true
 
 The **Delete ISO** feature allows you to remove an ISO file from your Utho Cloud account. This ensures that you can keep your account clean and organized by removing ISO files that are no longer needed. Once deleted, the ISO cannot be recovered unless re-uploaded.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you're not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Delete an Added ISO**
 
 1. **Navigate to the ISO Listing Page**

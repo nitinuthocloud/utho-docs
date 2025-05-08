@@ -20,12 +20,6 @@ tab: true
 
 The **Refresh ISO List** feature allows users to update the current status of their ISO files. If any ISOs are still downloading, clicking the "Refresh" button will check their download progress. It will update the status, such as the download percentage or change the status to "Active" once the download is complete. This ensures users have the most up-to-date information on their ISO files.
 
-## **Login or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
 ## **Steps to Refresh ISO List**
 
 1. **Navigate to the ISO Listing Page**
