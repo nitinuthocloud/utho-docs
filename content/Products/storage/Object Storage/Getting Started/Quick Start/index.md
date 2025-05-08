@@ -23,13 +23,7 @@ This guide covers the steps to deploy an object storage bucket and manage its fu
 
 ## **1. How to Create an Object Storage Bucket**
 
-### **Step 1: Log In or Sign Up**
-
-1. Visit the **Utho Cloud Platform** [Login](https://console.utho.com/login) page.
-2. Enter your credentials and click  **Login** .
-3. If you’re not registered, sign up [here](https://console.utho.com/signup).
-
-### **Step 2: Navigate to Object Storage**
+### **Step 1: Navigate to Object Storage**
 
 1. Open the **Utho Cloud Platform** dashboard.
 2. Click **"Object Storage"** in the sidebar.
@@ -37,7 +31,7 @@ This guide covers the steps to deploy an object storage bucket and manage its fu
    * **Buckets** : Displays all deployed storage instances.
    * **Access Keys** : Lists generated API access keys.
 
-### **Step 3: Create a Storage Bucket**
+### **Step 2: Create a Storage Bucket**
 
 1. Click the **"Create Bucket"** button.
 2. Configure the bucket:
@@ -45,7 +39,7 @@ This guide covers the steps to deploy an object storage bucket and manage its fu
    * **Storage Plan** : Select a plan based on your storage needs. Different plans offer varying capacities and pricing.
    * **Bucket Name** : Enter a unique, lowercase, space-free name.
 
-### **Step 4: Deploy the Bucket**
+### **Step 3: Deploy the Bucket**
 
 1. Review your selected configurations.
 2. Click **"Create Storage"** to start deployment.
